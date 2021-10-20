@@ -15,7 +15,7 @@ import java.util.Date;
 
 /**
  * <p>
- *
+ * 信息表1
  * </p>
  *
  * @author zhangpeng
